@@ -1,0 +1,19 @@
+.pertama{
+    background-color:orange;
+    border-style: groove;
+}
+.kedua{
+    color:white;
+    background-color:blue;
+    border-style: groove;
+}
+.ketiga{
+    font-size:150%;
+    font-family:monospace;
+    border-style: groove;
+}
+.keempat{
+    border-style: groove;
+    font-weight:900;
+    background-color:grey;
+}
